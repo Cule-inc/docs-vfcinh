@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Cule-inc.github.io/docs-vfcinh/sitemap.xml
